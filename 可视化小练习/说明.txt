@@ -1,0 +1,6 @@
+参考网址：https://pyecharts.org/#/zh-cn/global_options
+               http://gallery.pyecharts.org/#/README
+参考其中map和line部分
+
+要求成果与文件夹中的两个html类似
+细节方面不作要求，大体一样即可

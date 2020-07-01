@@ -1,0 +1,3 @@
+all.py是全部代码
+get_world_data.py是函数
+new.py是函数调用

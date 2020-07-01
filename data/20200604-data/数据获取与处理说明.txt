@@ -1,0 +1,18 @@
+1 数据来源
+1.1 https://coronavirus.1point3acres.com
+1.2 https://covidtracking.com
+1.3 https://news.ifeng.com/c/special/7uLj4F83Cqm
+1.4 https://www.dealmoon.com/guide/934164
+2 网页数据下载文件，以日期.txt命名:  
+1point3acres-former_xxx_data.txt存放的是1.1网页数据
+covidtracking-formaer_xxxx_data.txt存放的是1.2网页数据
+3 数据页面地址文件，以webaddress.txt命名
+
+4 处理数据py文件，说明程序功能
+get_data.py
+cov_tracking.py
+5 处理中文件，如json文件，处理完数据文件，如csv文件
+日期+world/us_state/GA-json/csv为处理文件
+
+6 其他说明事项
+

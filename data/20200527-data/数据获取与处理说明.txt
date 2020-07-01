@@ -1,0 +1,16 @@
+1 数据来源
+https://coronavirus.1point3acres.com/
+
+2 网页数据下载文件，以日期.txt命名:  
+ former_data.txt存放的是网页数据
+
+3 数据页面地址文件，以webaddress.txt命名
+
+4 处理数据py文件，说明程序功能
+get_world.py和get_state_data_csv.py
+
+5 处理中文件，如json文件，处理完数据文件，如csv文件
+日期+world/us_state/GA-json/csv为处理文件
+
+6 其他说明事项
+

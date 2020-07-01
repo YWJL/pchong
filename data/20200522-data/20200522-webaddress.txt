@@ -1,0 +1,2 @@
+us_state:https://coronavirus.1point3acres.com/_next/static/chunks/f06c164d5be98af89883b98af0dc1f621e6615b0.593ae1ec5183d914d010.js
+world:https://coronavirus.1point3acres.com/_next/static/chunks/b21fcfdbeeb9afd06309f1fb85aa87a37e5a727d.2f739a107330e032499d.js

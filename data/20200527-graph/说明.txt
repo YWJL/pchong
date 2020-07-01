@@ -1,0 +1,5 @@
+1. 20200527_graph.html 和 combine_line.html是汇总后的图表，graph是地图，line是折线图
+2.跟GA有关的图都由GA_all.py生成（GA-100000.html         GA-20200527.html       GA州近七天感染情况.html
+3.跟USA有关的图都由map_USA.py生成( USA-20200527        USA-week    )
+4.折线图是由data_line_all.py生成并汇总，生成combine_line.html
+5.map_world.py生成map_world.html
